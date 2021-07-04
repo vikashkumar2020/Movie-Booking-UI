@@ -31,7 +31,7 @@ body
     margin-left: 3vw;
     flex-direction: column;
     align-items: center;
-    gap: 10vh;
+    gap: 20%;
 }
 
 .screen
@@ -66,7 +66,7 @@ body
 .front
 {
     height:auto;
-    width: 18vw;
+    width: 30%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -75,7 +75,7 @@ body
 .middle
 {
     height:auto;
-    width: 18vw;
+    width: 30%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -85,7 +85,7 @@ body
 .last
 {
     height:auto;
-    width: 18vw;
+    width: 30%;
     display: flex;
     align-items: center;
     justify-content: center;
